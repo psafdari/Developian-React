@@ -4,7 +4,9 @@ import greeting from './components/greeting';
 
 function App() {
   return (
-    <Greeting />;
+    <div>
+<h1> Hello Everyone</h1>
+    </div>
 }
 
 export default App;
