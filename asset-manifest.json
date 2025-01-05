@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Developian-React/static/css/main.f855e6bc.css",
+    "main.js": "/Developian-React/static/js/main.9840593a.js",
+    "static/js/156.8b39bc33.chunk.js": "/Developian-React/static/js/156.8b39bc33.chunk.js",
+    "index.html": "/Developian-React/index.html",
+    "main.f855e6bc.css.map": "/Developian-React/static/css/main.f855e6bc.css.map",
+    "main.9840593a.js.map": "/Developian-React/static/js/main.9840593a.js.map",
+    "156.8b39bc33.chunk.js.map": "/Developian-React/static/js/156.8b39bc33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.9840593a.js"
+  ]
+}
